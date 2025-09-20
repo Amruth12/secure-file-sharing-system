@@ -1,0 +1,9 @@
+# Python files and directories
+__pycache__/
+
+# Virtual environment
+venv/
+
+# Folders for temporary files
+uploads/
+downloads/
