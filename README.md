@@ -32,8 +32,3 @@ To run this application, you need Python and pip installed.
 
 The application will be accessible at `http://127.0.0.1:5000`.
 
-## Deliverables
-
--   **GitHub Repository:** [Link to this repo]
--   **Walkthrough Video:** [Link to your video]
--   **Security Overview Document:** This `README.md` file serves as the document.
